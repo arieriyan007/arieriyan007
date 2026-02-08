@@ -40,10 +40,10 @@ Saat ini saya sering mengerjakan project:
 ---
 
 ### 📂 Featured Projects
-🔹 **School Payment System**  
+🔹 **Aplikasi Iuran Sekolah**  
 Aplikasi pendataan dan pembayaran iuran sekolah berbasis web.
 
-🔹 **Home NAS Server**  
+🔹 **NAS Server Rumahan**  
 Dokumentasi pembuatan NAS murah berbasis Linux & Samba.
 
 🔹 **Portfolio Website**  
