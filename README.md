@@ -1,6 +1,6 @@
 # arieriyan
 <h1 align="center">Hi 👋, Saya Arie Riyan</h1>
-<h3 align="center">Seorang IT Jaringan dan WEB Deplepover Pemula</h3>
+<h3 align="center">Seorang IT Jaringan dan WEB Developer Pemula</h3>
 
 ---
 
