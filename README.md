@@ -4,7 +4,7 @@
 
 ---
 
-### 👨‍💻 About Me
+### Tentang Ku
 Saya adalah seorang web developer pemula yang tertarik pada:
 - Backend development
 - Sistem informasi berbasis web
@@ -18,7 +18,7 @@ Saat ini saya sering mengerjakan project:
 
 ---
 
-### 🛠️ Tech Stack
+### Keahlian Ku
 **Programming & Web**
 - PHP
 - JavaScript
@@ -39,7 +39,7 @@ Saat ini saya sering mengerjakan project:
 
 ---
 
-### 📂 Featured Projects
+### 📂 Project Ku
 🔹 **Aplikasi Iuran Sekolah**  
 Aplikasi pendataan dan pembayaran iuran sekolah berbasis web.
 
@@ -56,7 +56,7 @@ Website portfolio pribadi menggunakan HTML, CSS, dan JavaScript.
 
 ---
 
-### 📫 Contact
+### 📫 Kontak
 - GitHub: https://github.com/arieriyan007
 - Email: arietkj2010@gmail.com
 
