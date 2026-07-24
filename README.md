@@ -49,6 +49,9 @@ Dokumentasi pembuatan NAS murah berbasis Linux & Samba.
 🔹 **Portfolio Website**  
 Website portfolio pribadi menggunakan HTML, CSS, dan JavaScript.
 
+🔹 **Aplikasi Kepegawaian Rumah Sakit SIMPEG**  
+Aplikasi SIMPEG menggunakan Laravel 13 dan Filament.
+
 ---
 
 ### 🌐 Portfolio
